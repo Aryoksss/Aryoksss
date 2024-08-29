@@ -34,9 +34,11 @@
 ### Spotify Playing 🎧
 
     
-<a href="https://open.spotify.com/user/31ohvxcrpucqdlbug7thpougbxs4" target="_blank" align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ohvxcrpucqdlbug7thpougbxs4&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=4bbe53&bar_color_cover=true" alt="Spotify Profile">
-</a>
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-puce-two.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ohvxcrpucqdlbug7thpougbxs4)
+</div>
+
+&nbsp;<div align="center">
 
 
     
