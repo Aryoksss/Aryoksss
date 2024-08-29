@@ -6,7 +6,7 @@
 <p align="center">
 
 
-17
+188
 
 </p>
 
@@ -14,20 +14,15 @@
 ### Connect with me ☎️
 <p align="center">
   <a href="https://instagram.com/aryaeka.r.p"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://t.me/Syulitdiketahui"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/#"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   <br>
-  <a name="Ryasya&label=VIEWS&style=flat-square&color=orange">
+  <a name="aryoksss&label=VIEWS&style=flat-square&color=orange">
 
 
 ------
     
-### Valorant 🎮
-<p align="center">
- <img src="https://gifdb.com/images/file/valorant-jett-promo-art-c6235bh6l9ggikea.gif">
-</p>
-<p align="center">
-  ID = fiore#Log0
-</p>
+### X 🎮
+
 
 ------
 
