@@ -1,6 +1,6 @@
 <h1 align="center">Aku Pemula Puh! <br></h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/179483192?size=200" />
+  <img src="https://telegra.ph/file/8989c39459b9fee1f73b0.jpg" />
 </p>
 
 <p align="center">
