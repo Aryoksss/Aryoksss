@@ -35,10 +35,10 @@
 
     
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem-puce-two.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ohvxcrpucqdlbug7thpougbxs4)
+  [![Spotify](https://novatorem-git-main-ryasyas-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31ohvxcrpucqdlbug7thpougbxs4)
 </div>
 
-&nbsp;<div align="center">
+&nbsp;
 
 
     
