@@ -1,6 +1,6 @@
 <h1 align="center">Aku Pemula Puh! <br></h1>
 <p align="center">
-  <img src="https://github.com/ryasya.png" />
+  <img src="https://github.com/aryoksss.png" />
 </p>
 
 <p align="center">
