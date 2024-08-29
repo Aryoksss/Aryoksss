@@ -43,7 +43,7 @@
 ### Github Stats 🚀
 
 
-<p align="center"><a href="https://github.com/ryasya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryasya&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/aryoksss"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryoksss&theme=radical&layout=compact"></a></p> 
 
 
 ------
