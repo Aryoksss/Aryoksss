@@ -1,9 +1,7 @@
 <h1 align="center">Aku Pemula Puh! <br></h1>
 <p align="center">
-  <img src="https://telegra.ph/file/8989c39459b9fee1f73b0.jpg" />
+  <img src="https://telegra.ph/file/8989c39459b9fee1f73b0.jpg" width="300px" />
 </p>
-
-<p align="center">
 
 
 18
