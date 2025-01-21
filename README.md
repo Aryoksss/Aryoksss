@@ -29,6 +29,7 @@
     
 &nbsp;<div align="center">
   [![Spotify](https://novatorem-2uudtxrs8-aryoksss-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31ohvxcrpucqdlbug7thpougbxs4)
+  [![Spotify](https://novatorem-2uudtxrs8-aryoksss-projects.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 </div>
 
 &nbsp;
