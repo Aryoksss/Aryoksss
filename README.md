@@ -28,7 +28,7 @@
 
 
 &nbsp;<div align="center">
-
+  [![Spotify](https://novatorem-dysmz6p4t-aryoksss-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31ohvxcrpucqdlbug7thpougbxs4)
 </div>
 
 &nbsp;
@@ -45,4 +45,3 @@
 
 
 ------
-  [![Spotify](https://novatorem-wine-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31ohvxcrpucqdlbug7thpougbxs4)
