@@ -26,12 +26,11 @@ cuma orang hilang
 
 ### Spotify Playing 🎧
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31ohvxcrpucqdlbug7thpougbxs4">
-    <img src="https://novatorem-aryoksss.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
-  </a>
-</p>
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-inlt416dh-aryoksss-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
+&nbsp;
 
 
     
