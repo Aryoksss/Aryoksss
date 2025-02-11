@@ -4,7 +4,7 @@
 </p>
 
 
-18
+cuma orang hilang
 
 </p>
 
