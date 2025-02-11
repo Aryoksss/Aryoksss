@@ -26,9 +26,11 @@ cuma orang hilang
 
 ### Spotify Playing 🎧
 
-&nbsp;<div align="center">
-   <img src="https://novatorem-wine-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&raw=true" alt="Spotify Now Playing" width="450" />
-</div>
+&nbsp;<p align="center">
+  <a href="https://open.spotify.com/user/31ohvxcrpucqdlbug7thpougbxs4">
+    <img src="https://novatorem-wine-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&raw=true" alt="Spotify Now Playing" width="450" />
+  </a>
+</p>
 
 &nbsp;
 
