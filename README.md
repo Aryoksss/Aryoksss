@@ -28,7 +28,7 @@ cuma orang hilang
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem-inlt416dh-aryoksss-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ohvxcrpucqdlbug7thpougbxs4)
+  [![Spotify](https://novatorem-inlt416dh-aryoksss-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
 </div>
 
 &nbsp;
