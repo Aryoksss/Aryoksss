@@ -27,7 +27,7 @@ cuma orang hilang
 ### Spotify Playing 🎧
 
 &nbsp;<div align="center">
-  ![Spotify](https://https://novatorem-wine-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)(https://open.spotify.com/user/omnitenebris)
+   <img src="https://novatorem-wine-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&raw=true" alt="Spotify Now Playing" width="450" />
 </div>
 
 &nbsp;
