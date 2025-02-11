@@ -47,4 +47,4 @@ cuma orang hilang
 ------
 
 ### Stats
-!https://github-readme-stats.vercel.app/api/wakatime?username=aryoksss&langs_count=20&layout=compact&bg_color=90,0d1117,0d1117&title_color=fff&text_color=fff
+  !(https://github-readme-stats.vercel.app/api/wakatime?username=Aryoksss&langs_count=20&layout=compact&bg_color=90,0d1117,0d1117&title_color=fff&text_color=fff)
