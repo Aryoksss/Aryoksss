@@ -12,7 +12,6 @@ cuma orang hilang
 ### Connect with me ☎️
 <p align="center">
   <a href="https://instagram.com/aryaeka.r.p"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://t.me/#"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   <br>
   <a name="aryoksss&label=VIEWS&style=flat-square&color=orange">
 
