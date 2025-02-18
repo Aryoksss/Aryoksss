@@ -8,7 +8,7 @@ cuma orang hilang
 
 </p>
 
-------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 ### Connect with me ☎️
 <p align="center">
   <a href="https://instagram.com/aryaeka.r.p"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -16,12 +16,12 @@ cuma orang hilang
   <a name="aryoksss&label=VIEWS&style=flat-square&color=orange">
 
 
-------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
     
 ### X 🎮
 
 
-------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 ### Spotify Playing 🎧
 
@@ -35,7 +35,7 @@ cuma orang hilang
 
 
     
-------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 
 ### Github Stats 🚀
@@ -45,7 +45,7 @@ cuma orang hilang
 </p>
 
 
-------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 ### VSC Stats
 
