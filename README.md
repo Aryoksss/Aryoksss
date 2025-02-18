@@ -4,7 +4,7 @@
 </p>
 
 
-cuma orang hilang
+cuma orang yang tersesat
 
 </p>
 
@@ -18,10 +18,6 @@ cuma orang hilang
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
     
-### X 🎮
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 ### Spotify Playing 🎧
 
