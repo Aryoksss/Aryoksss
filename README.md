@@ -47,3 +47,9 @@ cuma orang yang tersesat
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aryoksss&langs_count=20&layout=compact&bg_color=90,0d1117,0d1117&title_color=fff&text_color=fff" alt="WakaTime Stats"/>
 </p>
+
+### THM Stats
+
+<p align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4130196" style='border:none;'></iframe>
+</p>
