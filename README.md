@@ -1,4 +1,4 @@
-<h1 align="center">sorawautsukushiii</h1>
+<h1 align="center">Arya Eka Rahmat Prasetyo</h1>
 <p align="center"><em>Security Researcher · Bug Bounty Hunter · CTF Player</em></p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Security researcher focused on **WordPress plugin vulnerabilities** for the Word
 
 | CVE ID | Plugin | Vulnerability | Severity |
 |--------|--------|---------------|----------|
-| [CVE-2026-9018](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/easy-elements/easy-elements-for-elementor-addons-website-templates-145-unauthenticated-privilege-escalation-via-custom-meta-parameter) | Easy Elements for Elementor (≤ 1.4.5) | Unauthenticated Privilege Escalation via `custom_meta` | 🔴 Critical (9.8) |
+| [CVE-2026-9018](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/easy-elements/easy-elements-for-elementor-addons-website-templates-145-unauthenticated-privilege-escalation-via-custom-meta-parameter) | Easy Elements for Elementor (≤ 1.4.5) | Unauthenticated Privilege Escalation via `custom_meta` | 🟠 High (8.8) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
