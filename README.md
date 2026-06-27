@@ -36,6 +36,7 @@ Security researcher focused on **WordPress plugin vulnerabilities** for the Word
 | CVE ID | Plugin | Vulnerability | Severity |
 |--------|--------|---------------|----------|
 | [CVE-2026-9018](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/easy-elements/easy-elements-for-elementor-addons-website-templates-145-unauthenticated-privilege-escalation-via-custom-meta-parameter) | Easy Elements for Elementor (≤ 1.4.9) | Unauthenticated Privilege Escalation via `custom_meta` | 🟠 High (8.8) |
+|[CVE-2026-8095](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/nmedia-user-file-uploader/frontend-file-manager-plugin-236-authenticated-subscriber-arbitrary-file-deletion)| Frontend File Manager Plugin (≤ 23.6) | Authenticated (Subscriber+) Arbitrary File Deletion | 🟠 High (8.1) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
